@@ -1,5 +1,6 @@
 # Projetos-do-curso-Alura
 Projetos do curso Alura desenvolvidos: Gráficos, avaliação e tratamento de dados, previsões layouts, testes de hipoteses e estatisticos. 
+
 ################### explorando e analisando dados ###################
 Principais resultados:
 
@@ -8,7 +9,6 @@ Identificação de tendências, dispersões e possíveis outliers.
 Comparação entre diferentes grupos de dados.
 Interpretação de métricas estatísticas descritivas
 
-################### explorando e analisando dados ###################
 <img width="870" height="556" alt="image" src="https://github.com/user-attachments/assets/3c5aa51a-6d42-4ae4-b07d-68e42bcbcd5c" />
 
 <img width="1035" height="752" alt="image" src="https://github.com/user-attachments/assets/0f5f1bc8-5252-4c6d-82c7-0633eedf8dd0" />
